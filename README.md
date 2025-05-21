@@ -16,8 +16,8 @@ Develop a comprehensive report for the following exercises:
 Step 1:  Define Scope and Objectives
 
 1. Identify the goal of the report (e.g., educational, research, tech overview)
-1. Set the target audience level (e.g., students, professionals)
-1. Draft a list of core topics to cover
+2. Set the target audience level (e.g., students, professionals)
+3. Draft a list of core topics to cover
 
 Step 2: Create Report Skeleton
 
@@ -42,20 +42,20 @@ Step 3: Research and Data Collection
 
 1. Gather recent academic papers, blog posts, and official docs (e.g., OpenAI, Google AI)
 2. Extract definitions, explanations, diagrams, and examples
-3.  Cite all sources properly
+3. Cite all sources properly
 
 Step 4: Content Development
 
 1. Write each section in clear, simple language
 2. Include diagrams, figures, and charts where needed
 3. Highlight important terms and definitions
-4.  Use examples and real-world analogies for better understanding
+4. Use examples and real-world analogies for better understanding
 
 Step 5: Visual and Technical Enhancement
 
 1. Add tables, comparison charts (e.g., GPT-3 vs GPT-4)
 2. Use tools like Canva, PowerPoint, or LaTeX for formatting
-3.  Add code snippets or pseudocode for LLM working (optional)
+3. Add code snippets or pseudocode for LLM working (optional)
 
 Step 6: Review and Edit
 
@@ -168,7 +168,7 @@ Comprehensive Report on Generative AI Applications
 ##### Output:
 
 Generative AI: Impact of Scaling in Large Language Models (LLMs)
-Introduction
+Introduction:
 The rapid advancement of Generative AI, particularly Large Language Models (LLMs), has been driven by scaling improvements. Scaling refers to the increase in model size, dataset volume, and computational power, leading to enhanced performance in natural language processing (NLP) tasks. This report examines the impact of scaling in LLMs across various dimensions, including model capabilities, efficiency, challenges, and future directions.
 
 1. Scaling and Model Performance
